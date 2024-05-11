@@ -8,7 +8,6 @@ This Bash script facilitates easy file uploads to Azure cloud storage using Azur
   
 ## Installation
 
-To use this script, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
