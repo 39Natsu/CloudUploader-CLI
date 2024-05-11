@@ -1,7 +1,7 @@
 Azure Cloud File Upload Script
 This Bash script facilitates easy file uploads to Azure cloud storage using Azure CLI. It guides users through the process of creating resource groups, storage accounts, containers, and uploading files to Azure cloud.
 
-Features
+# Features
 Azure CLI Installation: Checks if Azure CLI is installed, and if not, offers to install it.
 Login to Azure CLI: Allows users to log in to Azure CLI.
 Resource Group Management: Users can create a new resource group or select from pre-existing ones.
