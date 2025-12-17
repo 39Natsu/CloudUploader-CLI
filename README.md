@@ -23,7 +23,7 @@ This Bash script facilitates easy file uploads to Azure cloud storage using Azur
  
 ## Usage
 
-1. Run the script (`upload_script.sh`).
+1. Run the script (`CloudUploader-CLI`).
 2. Follow the prompts to log in to Azure CLI and select or create resource groups, storage accounts, and containers.
 3. Upload your files to the selected container.
 
